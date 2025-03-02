@@ -54,10 +54,7 @@ csv_caption = "A 📄 .csv file containing all transactions stored in the bot da
 
 # Conversation: the start command was sent and the bot should welcome the user
 conversation_after_start = "Hello!\n" \
-                           "Welcome to greed!\n" \
-                           "This is the 🅱️ <b>Beta</b> version of the software.\n" \
-                           "It is fully usable, but there may be some bugs are still present.\n" \
-                           "If you find any, please report them at https://github.com/Steffo99/greed/issues."
+                           "Welcome to our autoshop!"
 
 # Conversation: to send an inline keyboard you need to send a message with it
 conversation_open_user_menu = "What would you like to do?\n" \
